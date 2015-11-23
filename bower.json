@@ -1,0 +1,10 @@
+{
+  "name": "iconv-lite-browser",
+  "version": "0.4.13",
+  "homepage": "https://github.com/sunoj/iconv-lite-browser",
+  "authors": [
+    "Ming <sunoj.mings@gmail.com>"
+  ],
+  "main": "iconv-lite.js",
+  "license": "MIT"
+}
