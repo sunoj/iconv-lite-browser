@@ -1,0 +1,23 @@
+{
+  "name": "iconv-lite-browser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iconv-lite.bundle.js",
+  "dependencies": {
+    "iconv-lite": "^0.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunoj/iconv-lite-browser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunoj/iconv-lite-browser/issues"
+  },
+  "homepage": "https://github.com/sunoj/iconv-lite-browser#readme"
+}

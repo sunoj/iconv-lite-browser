@@ -5,6 +5,6 @@
   "authors": [
     "Ming <sunoj.mings@gmail.com>"
   ],
-  "main": "iconv-lite.js",
+  "main": "iconv-lite.bundle.js",
   "license": "MIT"
 }
